@@ -27,6 +27,8 @@ This project fine-tunes DistilBERT, a compact transformer-based language model, 
 ├── README.md                                                                             # Project documentation
                                                                                 
 ```
+## 🎬 Watch Project Video
+▶️ [Click here to watch the project demo](https://drive.google.com/file/d/1gNOWUPGUsAhlIsWVkeHRS8gOrp7PHB46/view?usp=drive_link)
 
 ## Methodology
 
